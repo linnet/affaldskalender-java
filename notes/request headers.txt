@@ -1,0 +1,19 @@
+URL: http://kk.sites.itera.dk/apps/kk_afhentningstider/afhentningstider.asp?mode=detalje&id=Kildel%F8bet%2011
+
+
+Host: kk.sites.itera.dk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://kk.sites.itera.dk/apps/kk_afhentningstider/afhentningstider.asp
+Cookie: ASPSESSIONIDCCCBDDAC=CHHFKAPCOGCKAAPJFACGOHOO
+
+
+ASPSESSIONIDQSTRBBDC=JJJPBOABDAHHDGHNIBNELJHF
+
+Url: http://kk.sites.itera.dk/apps/kk_afhentningstider/afhentningstider.asp?mode=detalje&id=M%F8llebakken%2034
+--user-agent "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2b2) Gecko/20091108 Firefox/3.6b2"

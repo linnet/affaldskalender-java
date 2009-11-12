@@ -1,0 +1,236 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+    <title>Afhentningstider</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 		<link rel="stylesheet" href="/apps/KK.css" type="text/css" />
+ 		<link rel="stylesheet" href="afhentningstider.css" type="text/css" />
+	</head>
+	<body>
+
+		<div id="ContentAreaStandard">
+			<div class="ContentBlock" style="width:490px;">
+				<div class="DocumentText">
+
+	<h1>Afhentningstider</h1>
+
+	<p>Hvis du bor i villa, kan du her finde tidspunkterne for afhentning af alle typer affald pŒ din bop¾l. Du skal blot indtaste din adresse i nedenstŒende felt:</p>
+	<div style="text-align:center;border:1px solid #cccccc;padding:20px;">
+		<form class="top-form" method="get" name="soeg" action="afhentningstider.asp">
+			<p>Indtast vejnavn og -nummer&nbsp;<input type="text" name="vej" value="Kildel¿bet 11" size="30" /> <input type="submit" value="S¿g" /></p>
+			<input type="hidden" name="result" value="yes" />
+		</form>
+	</div>
+
+
+<!--	<div style="text-align:center;border:1px solid #cccccc;padding:20px;">
+		<form class="top-form" method="get" name="soeg" action="afhentningstider.asp">
+			<p>Indtast vejnavn og -nummer&nbsp;<input type="text" name="vej" value="" size="30" /> <input type="submit" value="S¿g" /></p>
+			<input type="hidden" name="result" value="yes" />
+		</form>
+	</div>-->
+	
+
+	<p>Her kan du se afhentningstiderne for <strong>Kildel¿bet 11</strong>.</p>
+	<p>Bem¾rk venligst, at der kan forekomme ¾ndringer i afhentningstiderne i l¿bet af Œret. For at im¿dekomme eventuelle misforstŒelser opdateres denne side l¿bende.</p><p>NedenstŒende er opdateret den 03-12-2008.</p>
+
+<!--<p>Vi kunne desv¾rre ikke finde nogen oplysninger pŒ <strong></strong></p>
+<p>Bem¾rk venligst at du skal skrive PR®CIST den adresse der s¿ges pŒ.</p>-->
+  
+<table align="center" cellspacing="0" cellpadding="0" style="width:510px">
+
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr>
+		<td class="boxelement"><img src="g/popup_afhentningstider_storskrald.jpg" alt="" /><br /><br /></td>
+  	<td class="boxelement"><div class="title">Storskrald</div>Der hentes storskrald den 09.02.09, 11.05.09, 10.08.09, 09.11.09.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+
+
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr><td class="boxelement"><img src="g/popup_afhentningstider_haveaffald.jpg" alt="" /><br /><br /></td>
+  <td class="boxelement"><div class="title">Haveaffald</div>Der hentes haveaffald den 04.03.09, 01.04.09, 06.05.09, 03.06.09, 08.07.09, 05.08.09, 09.09.09, 07.10.09, 11.11.09.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr><td class="boxelement"><img src="g/popup_afhentningstider_papir.jpg" alt="" /><br /><br /></td>
+  <td class="boxelement"><div class="title">Papiraffald</div>
+      Afhentes den 02.01.09, 27.02.09, 24.04.09, 19.06.09, 14.08.09, 09.10.09, 04.12.09. Husk at stille beholderen ud pŒ fortovet senest kl. 06:00 pŒ t¿mmedagen.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr><td class="boxelement"><img src="g/popup_afhentningstider_farligt.jpg" alt="" /><br /><br /></td>
+  <td class="boxelement"><div class="title">Farligt affald og smŒt elektronikaffald</div>
+      Hentes den 18.03.09, 17.06.09, 16.09.09, 16.12.09. Husk kun at stille boksen frem hvis den skal t¿mmes.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+    <title>Afhentningstider</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 		<link rel="stylesheet" href="/apps/KK.css" type="text/css" />
+ 		<link rel="stylesheet" href="afhentningstider.css" type="text/css" />
+	</head>
+	<body>
+
+		<div id="ContentAreaStandard">
+			<div class="ContentBlock" style="width:490px;">
+				<div class="DocumentText">
+
+	<h1>Afhentningstider</h1>
+
+	<p>Hvis du bor i villa, kan du her finde tidspunkterne for afhentning af alle typer affald pŒ din bop¾l. Du skal blot indtaste din adresse i nedenstŒende felt:</p>
+	<div style="text-align:center;border:1px solid #cccccc;padding:20px;">
+		<form class="top-form" method="get" name="soeg" action="afhentningstider.asp">
+			<p>Indtast vejnavn og -nummer&nbsp;<input type="text" name="vej" value="Kildel¿bet 11" size="30" /> <input type="submit" value="S¿g" /></p>
+			<input type="hidden" name="result" value="yes" />
+		</form>
+	</div>
+
+
+<!--	<div style="text-align:center;border:1px solid #cccccc;padding:20px;">
+		<form class="top-form" method="get" name="soeg" action="afhentningstider.asp">
+			<p>Indtast vejnavn og -nummer&nbsp;<input type="text" name="vej" value="" size="30" /> <input type="submit" value="S¿g" /></p>
+			<input type="hidden" name="result" value="yes" />
+		</form>
+	</div>-->
+	
+
+	<p>Her kan du se afhentningstiderne for <strong>Kildel¿bet 11</strong>.</p>
+	<p>Bem¾rk venligst, at der kan forekomme ¾ndringer i afhentningstiderne i l¿bet af Œret. For at im¿dekomme eventuelle misforstŒelser opdateres denne side l¿bende.</p><p>NedenstŒende er opdateret den 03-12-2008.</p>
+
+<!--<p>Vi kunne desv¾rre ikke finde nogen oplysninger pŒ <strong></strong></p>
+<p>Bem¾rk venligst at du skal skrive PR®CIST den adresse der s¿ges pŒ.</p>-->
+  
+<table align="center" cellspacing="0" cellpadding="0" style="width:510px">
+
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr>
+		<td class="boxelement"><img src="g/popup_afhentningstider_storskrald.jpg" alt="" /><br /><br /></td>
+  	<td class="boxelement"><div class="title">Storskrald</div>Der hentes storskrald den 09.02.09, 11.05.09, 10.08.09, 09.11.09.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+
+
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr><td class="boxelement"><img src="g/popup_afhentningstider_haveaffald.jpg" alt="" /><br /><br /></td>
+  <td class="boxelement"><div class="title">Haveaffald</div>Der hentes haveaffald den 04.03.09, 01.04.09, 06.05.09, 03.06.09, 08.07.09, 05.08.09, 09.09.09, 07.10.09, 11.11.09.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr><td class="boxelement"><img src="g/popup_afhentningstider_papir.jpg" alt="" /><br /><br /></td>
+  <td class="boxelement"><div class="title">Papiraffald</div>
+      Afhentes den 02.01.09, 27.02.09, 24.04.09, 19.06.09, 14.08.09, 09.10.09, 04.12.09. Husk at stille beholderen ud pŒ fortovet senest kl. 06:00 pŒ t¿mmedagen.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr><td class="boxelement"><img src="g/popup_afhentningstider_farligt.jpg" alt="" /><br /><br /></td>
+  <td class="boxelement"><div class="title">Farligt affald og smŒt elektronikaffald</div>
+      Hentes den 18.03.09, 17.06.09, 16.09.09, 16.12.09. Husk kun at stille boksen frem hvis den skal t¿mmes.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr><td class="boxelement"><img src="g/popup_afhentningstider_pvc.jpg" alt="" /><br /><br /></td>
+  <td class="boxelement"><div class="title">PVC og impr¾gneret tr¾</div>
+      Afhentes den 10.02.09, 12.05.09, 11.08.09, 10.11.09. Dit PVC og impr¾gneret tr¾ skal stilles samme sted som dit storskrald, men i en bunke for sig.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr><td class="boxelement"><img src="g/popup_afhentningstider_elektronik.jpg" alt="" /><br /><br /></td>
+  <td class="boxelement"><div class="title">Elektronik, k¿lem¿bler og pap &amp; karton</div>
+
+      Afhentes den 10.02.09, 12.05.09, 11.08.09, 10.11.09. Dit elektronikaffald, dine k¿lem¿bler og dit pap &amp; karton skal stilles samme sted som dit storskrald, men i en bunke hver for sig.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+  
+</table>
+			</div>
+		</div>
+	</div>
+	<script src="http://www.kk.dk/sitecore modules/KK.Website2008/Iframe/scripts/KK.Website2008.IframeNoPostBack.js" type="text/javascript"></script>
+</body>
+</html>
+" /></td>
+	</tr>
+	<tr><td class="boxelement"><img src="g/popup_afhentningstider_pvc.jpg" alt="" /><br /><br /></td>
+  <td class="boxelement"><div class="title">PVC og impr¾gneret tr¾</div>
+      Afhentes den 10.02.09, 12.05.09, 11.08.09, 10.11.09. Dit PVC og impr¾gneret tr¾ skal stilles samme sted som dit storskrald, men i en bunke for sig.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+
+	<tr>
+		<td colspan="2"><img src="g/popup_afhentningstider_boxtop.png" alt="" /></td>
+	</tr>
+	<tr><td class="boxelement"><img src="g/popup_afhentningstider_elektronik.jpg" alt="" /><br /><br /></td>
+  <td class="boxelement"><div class="title">Elektronik, k¿lem¿bler og pap &amp; karton</div>
+
+      Afhentes den 10.02.09, 12.05.09, 11.08.09, 10.11.09. Dit elektronikaffald, dine k¿lem¿bler og dit pap &amp; karton skal stilles samme sted som dit storskrald, men i en bunke hver for sig.</td>
+  </tr>
+	<tr>
+  	<td class="boxbottom" colspan="2"><img src="g/popup_afhentningstider_boxbottom.png" alt="" /></td>
+	</tr>
+  
+</table>
+			</div>
+		</div>
+	</div>
+	<script src="http://www.kk.dk/sitecore modules/KK.Website2008/Iframe/scripts/KK.Website2008.IframeNoPostBack.js" type="text/javascript"></script>
+</body>
+</html>
