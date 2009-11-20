@@ -14,38 +14,30 @@ import javax.servlet.http.HttpServletResponse;
 
 @SuppressWarnings("serial")
 public class FetchServlet extends HttpServlet {
+	private final String kkUrl = "http://kk.sites.itera.dk/apps/kk_afhentningstider/afhentningstider.asp?mode=detalje&id=";
+
 	public void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
 		resp.setContentType("text/calendar");
 	
-//		String kkUrl = "http://www.csvw.com/servlet/snoop?address=";
-//		String kkUrl = "http://affaldkbh.appspot.com/affaldskalender?adresse=";
-//		String kkUrl = "http://localhost:8080/affaldskalender?adresse=";
-		String kkUrl = "http://kk.sites.itera.dk/apps/kk_afhentningstider/afhentningstider.asp?mode=detalje&id=";
-//		String kkUrl = "http://kk.sites.itera.dk/apps/kk_afhentningstider/afhentningstider.asp?result=yes&vej=";
-		
-		DataFetcher fetcher = new DataFetcher(kkUrl);
-		String data = fetcher.fetch("Kildel¿bet 11");
+		String address = "Kildel¿bet 11";
 
-		DataParser parser = new DataParser(data);
-		parser.parse();
+		DatesCache cache = DatesCache.getInstance();
 		
-		DatePackage dates = parser.getDates();
+		DatePackage result = cache.findInCache(address);
+		if (result == null) {
+			DataFetcher fetcher = new DataFetcher(kkUrl);
+			String data = fetcher.fetch(address);
+	
+			DataParser parser = new DataParser(data);
+			parser.parse();
+			
+			result = parser.getDates();
+			cache.putInCache(address, result);
+		}
 
 		PrintWriter writer = resp.getWriter();
 
 		ICalGenerator outputter = new ICalGenerator(writer);
-		outputter.generate(dates);
-		
-//		writer.println("Dates:");
-//		for (String garbageType : dates.keySet()) {
-//			List<Date> dateList = dates.get(garbageType);
-//			writer.print("- " + garbageType + ": ");
-//			DateFormat df = new SimpleDateFormat("dd.MM.yy");
-//			for (Date date : dateList) {
-//				writer.print(df.format(date));
-//				writer.print(", ");
-//			}
-//			writer.println();
-//		}
+		outputter.generate(result);
 	}
 }

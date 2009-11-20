@@ -1,5 +1,6 @@
 package dk.kamstruplinnet.affaldskalender;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
@@ -7,7 +8,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class DatePackage {
+public class DatePackage implements Serializable {
+	private static final long serialVersionUID = -1274871642335287947L;
+	
 	private final Map<String, List<Date>> dates = new HashMap<String, List<Date>>();
 	
 	public void addGarbageType(String garbageType, List<Date> dateList) {
